@@ -1,0 +1,5 @@
+{
+  "name": "Oslo Game Studios",
+  "description": "En oversikt over spillutviklere i Oslo, deres spill, kontaktinfo og lokasjoner.",
+  "requestFramePermissions": ["geolocation"]
+}
